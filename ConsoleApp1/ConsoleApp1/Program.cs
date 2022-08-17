@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Checking git commands");
+            Console.WriteLine("Editing done");
             Console.ReadLine();
         }
     }
